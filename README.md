@@ -6,6 +6,10 @@ A simple image search made with React using the Unsplash API.
 
 Note: The API will max out at 50 searches/hour
 
+### Getting Started
+* Enter the search term in the search bar
+* Hit enter and the 10 most relevant images from Unsplash will be displayed
+
 ### Technologies
 * React 16.10.2
 * Axios 0.19.0
