@@ -6,6 +6,8 @@ A simple image search made with React using the Unsplash API.
 
 Note: The API will max out at 50 searches/hour
 
+![Image Search Demo](https://i.imgur.com/MVHHgFs.gif)
+
 ### Getting Started
 * Enter the search term in the search bar
 * Hit enter and the 10 most relevant images from Unsplash will be displayed
